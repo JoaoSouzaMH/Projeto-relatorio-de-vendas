@@ -26,5 +26,5 @@ Demonstrar domínio do Excel aplicado a cenários reais de negócio, estruturand
 ## 🔗 Visualização dos projetos
 - Análise 1 – Análise Geral de Vendas Básico  →  [Acessar planilha]  https://1drv.ms/x/c/c26dac8d9a538864/IQDLIIP6QQH6S4Tv7EAqb_d2AVw4-BArHX-Opwf5P3ilvGs?e=n3W9Ax
 
-- Análise 2 – Dashboard Comercial – Análise de Performance de Vendas → [Baixar planilha]
+- Análise 2 – Dashboard Comercial – Análise de Performance de Vendas →  [Acessar planilha]
 - https://1drv.ms/x/c/c26dac8d9a538864/IQCV8hJWmi-zQYF87VUSTfRpAW9NNdo9KuO7hBAgS_-HLdI?e=I5ziPA
